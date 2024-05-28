@@ -44,3 +44,44 @@ Create a JavaScript file and do the following:
 2. Log the person's name and job to the console.
 3. Add a property `hobby` to the person object and log the object to the console.
 4. Delete the `job` property from the person object and log the object to the console.
+
+## Task 7: String Manipulation (Simple)
+Create a JavaScript file and do the following:
+
+1. Declare a variable named `sentence` and assign it a string of your choice.
+2. Log the length of the string to the console.
+3. Convert the string to uppercase and log it to the console.
+4. Convert the string to lowercase and log it to the console.
+
+## Task 8: Math Object (Simple)
+Create a JavaScript file and do the following:
+
+1. Use the Math object to generate a random number between 1 and 10 and log it to the console.
+2. Use the Math object to find the square root of a number and log it to the console.
+
+## Task 9: Date Object (Medium)
+Create a JavaScript file and do the following:
+
+1. Use the Date object to get the current date and time and log it to the console.
+2. Use the Date object to get the current year and log it to the console.
+3. Use the Date object to get the current month and log it to the console.
+
+## Task 10: Functions and Scope (Medium)
+Create a JavaScript file and do the following:
+
+1. Write a function that takes two numbers as parameters and returns the larger number.
+2. Write a function that takes an array of numbers as a parameter and returns the largest number in the array.
+3. Write a function that takes a number as a parameter and checks if the number is within a certain range (for example, between 10 and 20).
+
+## Task 11: Working with JSON (Hard)
+Create a JavaScript file and do the following:
+
+1. Declare a JavaScript object with properties `name`, `age`, and `job`.
+2. Convert the object to a JSON string using `JSON.stringify()` and log it to the console.
+3. Convert the JSON string back to a JavaScript object using `JSON.parse()` and log it to the console.
+
+## Task 12: Error Handling (Hard)
+Create a JavaScript file and do the following:
+
+1. Write a function that throws an error with a message of your choice.
+2. Use a try-catch block to catch the error and log the error message to the console.
