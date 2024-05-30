@@ -1,6 +1,6 @@
 /*
 ## Task 4: Functions (Medium)
-Create a TypeScript file and do the following:
+Create a JavaScript file and do the following:
 
 1. Write a function named `greet` that takes a name as a parameter of type `string` and logs a greeting message to the console.
 2. Write a function named `add` that takes two numbers as parameters of type `number` and returns their sum.
@@ -9,19 +9,19 @@ Create a TypeScript file and do the following:
 */
 
 
-function greet(name:string){
+function greet(name){
 
     console.log('Welcome ',name);
     console.log(`Welcome ${name}!`);
 }
 
-function add(no1:number,no2:number){
+function add(no1,no2){
     return no1+no2
 }
 
-function isEven(num:number){
+function isEven(num){
 
-    let flag:boolean = false;
+    let flag = false;
 
     if (num%2===0){
     
