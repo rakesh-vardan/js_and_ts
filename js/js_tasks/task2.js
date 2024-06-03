@@ -1,6 +1,6 @@
 /*
 Task 2: Basic Operators (Simple)
-Create a TypeScript file and do the following:
+Create a JavaScript file and do the following:
 
 1. Declare two variables `num1` and `num2` of type `number` and assign them any two numbers.
 2. Perform addition, subtraction, multiplication, and division operations on these numbers.

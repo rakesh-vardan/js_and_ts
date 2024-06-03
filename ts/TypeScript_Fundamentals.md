@@ -64,13 +64,8 @@ Create a TypeScript file and do the following:
 
 1. Use the Date object to get the current date and time and log it to the console.
 2. Use the Date object to get the current year and log it to the console.
-3. Use the Date object to get the current month and log it to the console.
-
-## Task 10: Functions and Scope (Medium)
-Create a TypeScript file and do the following:
-
-1. Write a function that takes two numbers as parameters of type `number` and returns the larger number.
-2. Write a function that takes an array of numbers as a parameter of type `number[]` and returns the largest number in the array.
+3. Use the Date object to get the current month and 
+arameter of type `number[]` and returns the largest number in the array.
 3. Write a function that takes a number as a parameter of type `number` and checks if the number is within a certain range (for example, between 10 and 20).
 
 ## Task 11: Working with JSON (Hard)

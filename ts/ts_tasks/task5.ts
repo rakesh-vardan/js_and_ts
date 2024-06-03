@@ -14,8 +14,7 @@ Create a TypeScript file and do the following:
 function printEachElement(array:string[]){
 
     array.forEach((element)=>{
-        console.log(element)
-       
+        console.log(element) 
     })
 
     console.log('**********************************')
@@ -30,7 +29,6 @@ function playWithArray(fruits:string[]){
     console.log("The 1st and last elements are: "+fruits[0]+" and "+fruits[fruits.length-1])
     console.log('**********************************')
 
-
     console.log('Adding 1 element at the last')
     fruits.push('Water Melon')
     printEachElement(fruits);
@@ -39,7 +37,6 @@ function playWithArray(fruits:string[]){
     fruits.unshift('Orange')
     printEachElement(fruits);
 
-
     console.log('Removing 1 element from the last')
     fruits.pop()
     printEachElement(fruits);
@@ -47,10 +44,7 @@ function playWithArray(fruits:string[]){
     console.log('Removing 1 element from the begining')
     fruits.shift()
 
-
     printEachElement(fruits);
-
-
 
 }
 
