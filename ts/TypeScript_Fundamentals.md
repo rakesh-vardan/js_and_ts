@@ -68,6 +68,13 @@ Create a TypeScript file and do the following:
 arameter of type `number[]` and returns the largest number in the array.
 3. Write a function that takes a number as a parameter of type `number` and checks if the number is within a certain range (for example, between 10 and 20).
 
+## Task 10: Functions and Scope (Medium)
+Create a TypeScript file and do the following:
+
+1. Write a function that takes two numbers as parameters and returns the larger number.
+2. Write a function that takes an array of numbers as a parameter and returns the largest number in the array.
+3. Write a function that takes a number as a parameter and checks if the number is within a certain range (for example, between 10 and 20).
+
 ## Task 11: Working with JSON (Hard)
 Create a TypeScript file and do the following:
 

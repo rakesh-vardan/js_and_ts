@@ -10,25 +10,33 @@ Create a TypeScript file and do the following:
 
 
 
+interface Profile{
+
+    name: string,
+    age: number,
+    job: string,
+    hobby?: string[],
+    email?:string
+
+}
 
 
 
+const profile :Profile = {
 
-// let person = {
+    name : "Subha",
+    age: 32,
+    job: "QA"
+}
 
-//     name : "Subha",
-//     age: 32,
-//     job: "QA"
-// }
+profile.hobby = ['Music','Movies','Travelling','Food']
+profile.email = 'mail@mail.com'
 
-// person.hobby = ['Music','Movies','Travelling','Food']
-// person.email = 'mail@mail.com'
+console.log("Email is present in the person's data? : " ,"email" in profile)
 
-// console.log("Email is present in the person's data? : " ,"email" in person)
+console.log(profile)
 
-// console.log(person)
+delete profile.email
+console.log("Email is present in the person's data? : ","email" in profile)
 
-// delete person.email
-// console.log("Email is present in the person's data? : ","email" in person)
-
-// console.log(person)
+console.log(profile)
