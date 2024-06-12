@@ -1,17 +1,17 @@
 Typescript:
 ----------
 
-var,let and const difference.
-types and interfaces and enums
-Generics
-Arrow functions
-map,filter and reduce
-return type
-module import and exports
-spread operator
-destructuring
-callback function and promises.
-iterationOfListoFElements
+task_01. var, let, and const difference
+task_02. Arrow functions
+task_03. map, filter, and reduce
+task_04. Iteration of list of elements
+task_05. Callback function and promises
+task_06. Module import and exports
+task_07. Spread operator
+task_08. Destructuring
+task_09. Return type
+task_10. Types and interfaces and enums
+task_11. Generics
 
 
 Cypress:
